@@ -1,4 +1,4 @@
-# RNDM Render Plugin: Lodash
+# RNDM Render Plugin: Ramda
 
 ## About
 
